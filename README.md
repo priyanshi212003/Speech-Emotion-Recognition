@@ -62,8 +62,7 @@ Predicted Emotion: Happy
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Acknowledgments
 - Datasets: [RAVDESS](https://zenodo.org/record/1188976), [TESS](https://tspace.library.utoronto.ca/handle/1807/24487)
